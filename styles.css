@@ -2,22 +2,26 @@
 .interest {
         font-style: italic;
 }
+
 ul {
         list-style: none;
         padding-left:0px;
 }
+
 span {
         font-weight: bold;
 }
-body {
 
+.card-frame {
         border-style: solid;
         border-color: #c2c2c2;
+        background-color: pink;
         border-width: 1px;
         padding: 10px 10px 10px 10px;
         width: 305px;
         box-shadow: 5px 5px 10px grey
 }
+
 img{
         width: 300px;
         border-style: solid;
@@ -25,6 +29,7 @@ img{
         border-width: 1px;
         padding: 1px 1px 1px 1px
 }
+
 .txtBorder{
         border-style: solid;
         border-color: #c2c2c2;
