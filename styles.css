@@ -1,17 +1,4 @@
 /* 添加 CSS */
-.interest {
-        font-style: italic;
-}
-
-ul {
-        list-style: none;
-        padding-left:0px;
-}
-
-span {
-        font-weight: bold;
-}
-
 .card-frame {
         border-style: solid;
         border-color: #c2c2c2;
@@ -23,11 +10,16 @@ span {
         box-shadow: 5px 5px 10px grey
 }
 
+header {
+        font-style: italic;
+}
+
 img{
         width: 300px;
         border-style: solid;
-        border-color: #c2c2c2;
         border-width: 1px;
+        border-color: #c2c2c2;
+        border-radius: 5px;
         padding: 1px 1px 1px 1px
 }
 
@@ -35,7 +27,21 @@ img{
         border-style: solid;
         border-color: #c2c2c2;
         border-width: 1px;
+        border-radius: 5px;
         padding: 10px 1px 10px 1px;
         width: 300px;
         font-size:smaller;
+}
+
+.interest {
+        font-style: italic;
+}
+
+ul {
+        list-style: none;
+        padding-left:0px;
+}
+
+span {
+        font-weight: bold;
 }
