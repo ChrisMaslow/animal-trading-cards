@@ -18,14 +18,14 @@ img{
         width: 300px;
         border-style: solid;
         border-width: 1px;
-        border-color: #c2c2c2;
+        border-color: transparent;
         border-radius: 5px;
         padding: 1px 1px 1px 1px
 }
 
 .txtBorder{
         border-style: solid;
-        border-color: #c2c2c2;
+        border-color: transparent;
         border-width: 1px;
         border-radius: 5px;
         padding: 10px 1px 10px 1px;
