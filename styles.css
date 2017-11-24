@@ -20,7 +20,8 @@ img{
         border-width: 1px;
         border-color: transparent;
         border-radius: 5px;
-        padding: 1px 1px 1px 1px
+        padding: 1px 1px 1px 1px;
+        cursor: pointer;
 }
 
 .txtBorder{
